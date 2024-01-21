@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.logo{
+    width: 80%;
+}
+
+h1{
+    color: white;
+    font-size: 3rem;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+}
